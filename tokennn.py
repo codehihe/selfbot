@@ -1,1 +1,1 @@
-TOKEN = "Upload Here" # Your Dc Id Token
+TOKEN = "upload_here" # Your Dc Id Token
